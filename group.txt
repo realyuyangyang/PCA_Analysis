@@ -1,0 +1,11 @@
+Group	samplenames
+G1	hESC R1
+G1	hESC R2
+G2	MES R1
+G2	MES R2
+G3	CP R1
+G3	CP R2
+G4	CM R1
+G4	CM R2
+G5	Fetal R1
+G5	Fetal R2
